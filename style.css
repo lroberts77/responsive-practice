@@ -43,6 +43,7 @@
 }
 
 .banner header {
+    background-color: rgba(0,0,0,.6);
     position: absolute;
     top: 0;
     left: 0;
@@ -67,7 +68,7 @@
     position: relative;
     width: 36px;    
     height: 28px;
-    background: url("./nature.jpg");
+    background: url(nature.jpg);
     background-size: cover;
     cursor: pointer;
 }
